@@ -167,7 +167,7 @@ int main(void)
 	WH_KEYBOARD_LL (int idHook):
 
 	The WH_KEYBOARD_LL hook enables you to monitor keyboard input events about to be posted in a thread input queue.
-    For more information, see the LowLevelKeyboardProc callback function.
+        For more information, see the LowLevelKeyboardProc callback function documentation.
 	https://docs.microsoft.com/en-us/windows/win32/winmsg/about-hooks?redirectedfrom=MSDN#wh_keyboard_ll
 	*/
 
