@@ -122,6 +122,8 @@ https://docs.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-kbdllhooks
 
 /*
 CALLBACK: 
+
+A callback function is code within a managed application that helps an unmanaged DLL function complete a task. 
 https://docs.microsoft.com/en-us/dotnet/framework/interop/callback-functions
 https://en.wikipedia.org/wiki/Callback_%28computer_programming%29#C
 */
