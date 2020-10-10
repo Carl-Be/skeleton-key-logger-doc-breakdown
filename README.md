@@ -6,5 +6,8 @@ While re-reading THP3 i've stumbled accross a key logger program for windows mac
 to see the capabilities of windows programming. Here is a breakdown of the all the documentation that goes into making 
 a skeleton key-logger program for current windows machines. 
 
-Original skeleton key-logger source
+Original skeleton key-logger source:
 https://github.com/cheetz/ceylogger/blob/master/skeleton
+
+Buy THP3:
+https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B07CSPFYZ2
